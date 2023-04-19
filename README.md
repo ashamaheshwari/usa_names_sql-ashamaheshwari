@@ -1,4 +1,6 @@
-## SQL Names
+## SQL Names (PostgresSQL Exercise 1)
+
+This assingment/exercise was provided by instructor Micheal Holloway to students in NSS Data Science Bootcamp
 
 Save a script containing the query you used to answer each question and your answer (as a comment).
 
@@ -40,4 +42,4 @@ Save a script containing the query you used to answer each question and your ans
 
 19. Find the names that have not be used in the longest.
 
-20. Come up with a question that you would like to answer using this dataset. Then write a query to answer this question.
+

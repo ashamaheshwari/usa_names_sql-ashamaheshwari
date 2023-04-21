@@ -34,12 +34,6 @@ Save a script containing the query you used to answer each question and your ans
 
 15. How many names have made an appearance in every single year since 1880?
 
-16. How many names have only appeared in one year?
 
-17. How many names only appeared in the 1950s?
-
-18. How many names made their first appearance in the 2010s?
-
-19. Find the names that have not be used in the longest.
 
 
